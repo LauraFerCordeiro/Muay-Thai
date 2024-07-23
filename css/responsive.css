@@ -19,7 +19,7 @@
 
     .hero_area::before {
 
-        background: linear-gradient(to bottom, transparent, #63f74f);
+        background: linear-gradient(to bottom, transparent, #610f0f);
 
     }
 
@@ -58,7 +58,7 @@
     }
 
     .slider_section .slider_heading h2 {
-        font-size: 7rem;
+        font-size: 4rem;
     }
 
     .class_section .owl-carousel .owl-nav {
