@@ -269,7 +269,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-size: 7rem;
+  font-size: 6vw;
   text-transform: uppercase;
   text-orientation: upright;
   font-weight: bold;
